@@ -4,7 +4,7 @@
 
 # Original file by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 
-# YOUR NAME HER PLEASE:
+# Modified by Manish Munikar <munikarmanish>
 
 import math
 import random
